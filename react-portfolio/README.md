@@ -43,3 +43,7 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/alisha1025/React-Portfolio.git
+
+2. cd React-Portfolio
+3. npm install
+   
